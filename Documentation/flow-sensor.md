@@ -30,13 +30,15 @@ The figure below illustrates the mechanical assembly designed for positioning an
 
 <p align="center">
   <img src="../images/sensor-assembly-cad.jpeg" alt="Sensor mechanical assembly (CAD)" width="520">
+  <img width="812" height="550" alt="image" src="https://github.com/user-attachments/assets/989d5f11-50bd-4c33-95be-651fd5ce9304" />
+
 </p>
 
 The distal end of the arm supports a rectangular frame structure, which serves as the mounting enclosure for the sensing element. This frame holds the electrode configuration required for capacitive measurement while maintaining mechanical rigidity and alignment with the flow region. The open-frame architecture keeps the sensing region exposed to the surrounding medium, allowing interaction with the fluid without obstruction. The articulated arm enables precise placement of the sensing frame within the target measurement zone, ensuring repeatable positioning and stable operation during experimental or real-time flow monitoring.
 
 | Sensor enclosure (CAD) | Sensor mounted on site |
 | :---: | :---: |
-| <img src="../images/sensor-enclosure-cad.jpeg" width="320"> | <img src="../images/sensor-mounted-photo.jpeg" width="240"> |
+|<img width="240" height="509" alt="image" src="https://github.com/user-attachments/assets/79777ebd-67de-4048-90ce-4cb686e7effa" />|<img src="../images/sensor-mounted-photo.jpeg" width="240"> |
 
 The capacitance-based sensing module is designed to be mounted directly onto the existing mechanical structure of the cooling tower without requiring any permanent modification, drilling, or alteration to the original installation. This non-destructive mounting approach allows the system to be retrofitted onto any compatible cooling tower structure with minimal installation effort and without voiding structural warranties or maintenance agreements.
 
