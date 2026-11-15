@@ -52,15 +52,15 @@ The current deployment focuses only on the data handling layer of the system, so
 
 | Document | Contents |
 | --- | --- |
-| [System Design](docs/system-design.md) | Architecture, functional / non-functional requirements, design decisions & rationale |
-| [Hardware Design](docs/hardware-design.md) | Schematics, bill of materials, PCB layouts and specifications |
-| [Software Design](docs/software-design.md) | Python dashboard, development environment |
-| [Power Supply Design](docs/power-supply.md) | Power architecture and power budget |
-| [Free Flow Sensor](docs/flow-sensor.md) | Capacitance-based sensing theory, mechanical structure and mounting |
-| [Enclosures](docs/enclosures.md) | PETG material rationale, rooftop and ground-station enclosures |
-| [Testing & Validation](docs/testing-validation.md) | Test plan, results, sensor performance |
-| [Safety & Compliance](docs/safety-compliance.md) | Hazard analysis and applicable standards |
-| [Results & Future Work](docs/results-and-future-work.md) | Summary of results, discussion, planned improvements |
+| [System Design](Documentation/system-design.md) | Architecture, functional / non-functional requirements, design decisions & rationale |
+| [Hardware Design](Documentation/hardware-design.md) | Schematics, bill of materials, PCB layouts and specifications |
+| [Software Design](Documentation/software-design.md) | Python dashboard, development environment |
+| [Power Supply Design](Documentation/power-supply.md) | Power architecture and power budget |
+| [Free Flow Sensor](Documentation/flow-sensor.md) | Capacitance-based sensing theory, mechanical structure and mounting |
+| [Enclosures](Documentation/enclosures.md) | PETG material rationale, rooftop and ground-station enclosures |
+| [Testing & Validation](Documentation/testing-validation.md) | Test plan, results, sensor performance |
+| [Safety & Compliance](Documentation/safety-compliance.md) | Hazard analysis and applicable standards |
+| [Results & Future Work](Documentation/results-and-future-work.md) | Summary of results, discussion, planned improvements |
 
 ---
 
