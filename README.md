@@ -20,9 +20,6 @@ A low-cost, wireless, non-invasive retrofit automation system for industrial air
 | Lasantha L.H.J.D. | 240384 T |
 | Liyanage B.L.D.P.T.G. | 240391 L |
 
-**Submitted to:** Dr. A. Pasqual
-**Date:** 4th July 2026
-
 ---
 
 ---
